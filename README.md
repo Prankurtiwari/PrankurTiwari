@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Senior+Backend+Engineer+%40+Chargebee;Java+%7C+Spring+Boot+%7C+Microservices;4%2B+Years+Building+Scalable+SaaS+Solutions;%24500K%2B+ARR+%7C+40%25+Latency+Reduction)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Senior+Backend+Engineer+%40+Chargebee;Java+%7C+Spring+Boot+%7C+Microservices;4%2B+Years+Building+Scalable+SaaS+Solutions)](https://git.io/typing-svg)
   
 </div>
 
@@ -13,7 +13,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prankur-t-76666496)
   [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/tiwariprankur61)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiwariprankur61@gmail.com)
-  [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1qf5xG3Dirrc3cKQhZHqP57QdxLehOePh/view?usp=sharing)
+  [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1a0hJ5o2Z0bwddB3kFJjHkBEB14RCtKAX/view?usp=sharing)
   
 </div>
 
